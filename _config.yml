@@ -11,4 +11,10 @@ color:
     - '#7ECEFD'
     - '#FFF6E5'
     - '#FF7F66'
-name: JGSACO
+name: >-
+  <img
+  src="https://static.wixstatic.com/media/94927a_e953e71461f04ef1ab67c44632b5614d.png/v1/fill/w_231,h_231,al_c,usm_0.66_1.00_0.01/94927a_e953e71461f04ef1ab67c44632b5614d.png">
+navigation:
+  - id: 52573776-b21b-407e-ba44-a453174fa459
+    name: JGSACO
+    type: content
