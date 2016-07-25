@@ -1,21 +1,19 @@
 ---
-datePublished: '2016-07-25T19:40:42.541Z'
+datePublished: '2016-07-25T19:45:36.662Z'
 sourcePath: >-
   _posts/2016-07-25-jordan-global-shipping-agencies-co-ltd-or-jgsaco-or-71-wasfi.md
-isBasedOnUrl: 'http://www.jgsaco.com/'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-07-25T19:40:02.966Z'
+dateModified: '2016-07-25T19:45:35.124Z'
 title: ''
 app_links: []
 publisher: {}
 description: ''
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: jordan-global-shipping-agencies-co-ltd-or-jgsaco-or-71-wasfi/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
