@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[JGSACO]]></title>
         <description><![CDATA[JGSACO]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jgsaco/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 19:35:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jul 2016 19:36:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jgsaco/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d40c2cbb-c3f0-451b-a9da-3e9ebc0d4a62.jpg">]]></description>
+            <link>https://thegrid.ai/jgsaco/75902b2a-231f-4702-8c07-400c82c458f2/index.html</link>
+            <guid isPermaLink="false">75902b2a-231f-4702-8c07-400c82c458f2</guid>
+            <pubDate>Mon, 25 Jul 2016 19:36:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jordan Global Shipping Agencies Co. Ltd | JGSACO | 71, Wasfi Altall St]]></title>
             <description><![CDATA[<article><h1>Jordan Global Shipping Agencies Co. Ltd | JGSACO | 71, Wasfi Altall St</h1><p>Port agencies, Shipping, Forwarding, Transportation, Marine, Survey, Chartering, Brokerage, Clearance, Consultation, representation, Jordan, Aqaba, ship agent,</p></article>]]></description>
